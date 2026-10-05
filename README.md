@@ -48,4 +48,5 @@ CodeAlpha_StudentGradeTracker
 └── README.md
 
 ## Sample Output
-![Student Grade Tracker Output](IMG_20261005_222619.jpg) 
+
+![Student Grade Tracker Output](./IMG_20261005_222619.jpg)
