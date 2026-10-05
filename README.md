@@ -50,3 +50,4 @@ CodeAlpha_StudentGradeTracker
 ## Sample Output
 
 ![Student Grade Tracker Output](./IMG_20261005_222619.jpg)
+
