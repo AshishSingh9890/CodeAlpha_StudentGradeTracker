@@ -46,3 +46,7 @@ CodeAlpha_StudentGradeTracker
 │
 ├── Main.java
 └── README.md
+
+## Sample Output
+
+![Student Grade Tracker Output](student-grade-tracker-output.png)
